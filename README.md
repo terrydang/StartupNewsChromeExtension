@@ -1,5 +1,7 @@
 # [Startup News](http://news.dbanotes.net) Chrome Extension  
 
+![image](https://raw.github.com/dangbiao1991/StartupNewsChromeExtension/master/Resources/screem.png)
+
 支持浏览器
 ---
 Chrome 22以上
