@@ -1,0 +1,21 @@
+{
+  "name": "Startup News Extension",
+  "description": "This extension adds an icon to the toolbar which allows you to share the page link to Startup News. When clicked ,it will grab the selected content(if any) as TITLE and the active tab's url as URL.",
+  "version": "2.0",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "icons": { "64": "logo.png" },
+  "options_page": "options.html",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+    "default_title": "Share to Startup News",
+    "default_icon": "icon_16x16.png",
+    "default_popup":"popup.html"
+  },
+
+  "manifest_version": 2
+}
