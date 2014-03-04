@@ -1,5 +1,6 @@
 # [Startup News](http://news.dbanotes.net) Chrome Extension  
 
+插件截图如下：
 ![image](https://raw.github.com/dangbiao1991/StartupNewsChromeExtension/master/Resources/screem.png)
 
 支持浏览器
@@ -12,14 +13,14 @@ Chrome 22以上
 
 目前还没有发布到Chrome应用商店，因为谷歌钱包不支持中国大陆地区，无法提交开发者注册费用
 
-   有兴趣的可以去github上下载来体验下。
-  https://github.com/dangbiao1991/StartupNewsChromeExtension
+   有兴趣的可以下载来体验下:
 
    体验方法:
    1.打开Chrome菜单->工具->扩展程序。
    2.勾选开发者模式。
-   3.加载正在开发的扩展程序->选择扩展程序根目录（例如：path/StartupNewsExt2.0）->确定。
-如果刚好有现成的开发者账户，可以将其提交到chrome应用商店。
+   3.加载正在开发的扩展程序->选择扩展程序根目录（例如：C:\Users\Terry\Desktop\StartupNewsExt2.0）->确定。
+
+如果你刚好有现成的开发者账户，可以在告知本人后将其提交到chrome应用商店。
 
 
 反馈
